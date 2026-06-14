@@ -16,7 +16,7 @@ A responsive educational landing page built using HTML and CSS.
 - Responsive Web Design
 
 ## Live Demo
-(Add GitHub Pages link here after deployment)
+https://shriyans-deo.github.io/case-crack-academy/
 
 ## Author
 Shriyans Deo
